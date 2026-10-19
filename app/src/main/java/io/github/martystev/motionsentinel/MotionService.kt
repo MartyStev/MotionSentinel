@@ -39,6 +39,7 @@ class MotionService : Service(), SensorEventListener {
         gpsProvider = GpsProvider(this)
         alarmPlayer = AlarmPlayer(this)
         alertManager = AlertManager(
+            applicationContext,
             telegramSender,
             gpsProvider,
             repeatIntervalMs = settings.getRepeatIntervalSec().toLong() * 1000L,

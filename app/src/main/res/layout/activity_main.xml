@@ -55,7 +55,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Охрана"
+                        android:text="@string/section_guard"
                         android:textColor="#0F1A16"
                         android:textStyle="bold"
                         android:fontFamily="sans-serif-condensed"
@@ -106,7 +106,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Тревога"
+                        android:text="@string/section_alert"
                         android:textColor="#0F1A16"
                         android:textStyle="bold"
                         android:fontFamily="sans-serif-condensed"

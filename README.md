@@ -2,7 +2,7 @@
 
 Open-source Android anti-theft alarm for motorcycles, cars, bicycles, or anything else that should not move. When the phone senses motion, it sounds a siren (optional) and sends an alert, then a GPS location, to your Telegram chat.
 
-Универсальная охранная сигнализация для мотоцикла, автомобиля, велосипеда и т. п.: при движении телефона — сирена (опционально) и уведомление с GPS-координатами в Telegram. Интерфейс пока на русском.
+Универсальная охранная сигнализация для мотоцикла, автомобиля, велосипеда и т. п.: при движении телефона — сирена (опционально) и уведомление с GPS-координатами в Telegram. Interface: English and Russian.
 
 ## Features
 - Motion detection with adjustable sensitivity and activation delay
@@ -30,6 +30,9 @@ Signed release builds run in CI on `v*` tags using secrets `SIGNING_KEYSTORE_BAS
 
 ## Limitations
 Battery optimisation on some vendors may kill background services; exclude the app from battery optimisation. It is a deterrent/notifier, not a certified security device.
+
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 [MIT](LICENSE)
