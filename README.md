@@ -4,6 +4,10 @@ Open-source Android anti-theft alarm for motorcycles, cars, bicycles, or anythin
 
 Универсальная охранная сигнализация для мотоцикла, автомобиля, велосипеда и т. п.: при движении телефона — сирена (опционально) и уведомление с GPS-координатами в Telegram. Interface: English and Russian.
 
+## Screenshots
+
+<img src="docs/screenshots/main.png" width="270" alt="Main screen"> <img src="docs/screenshots/settings.png" width="270" alt="Telegram settings">
+
 ## Features
 - Motion detection with adjustable sensitivity and activation delay
 - Optional siren, repeated alerts with configurable interval
