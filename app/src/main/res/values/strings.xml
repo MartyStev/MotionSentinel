@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MotionSentinel</string>
+    <string name="activate">Активировать охрану</string>
+    <string name="deactivate">Деактивировать охрану</string>
+    <string name="telegram_token">Telegram токен</string>
+    <string name="telegram_chat_id">Telegram chat_id</string>
+    <string name="sensitivity">Чувствительность</string>
+    <string name="siren">Звуковая сигнализация</string>
+    <string name="repeat_interval">Интервал повторных уведомлений (сек)</string>
+    <string name="gps_delay">Отправка GPS через (сек)</string>
+    <string name="monitor_interval">Интервал проверки в мониторинге (сек)</string>
+    <string name="high_freq_alert">Повышенная частота в тревоге</string>
+    <string name="activation_delay">Задержка активации (сек)</string>
+    <string name="gps_permission_needed">Нужно разрешение на геолокацию</string>
+    <string name="gps_enable_needed">Включите GPS для отправки координат</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="cancel">Отмена</string>
+    <string name="app_lock">Блокировка приложения</string>
+    <string name="use_biometrics">Системная блокировка (биометрия/ПИН)</string>
+    <string name="auth_required">Требуется подтверждение</string>
+    <string name="save">Сохранить</string>
+    <string name="status_inactive">Охрана выключена</string>
+    <string name="status_active">MotionSentinel активен</string>
+</resources>
